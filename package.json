@@ -1,0 +1,22 @@
+{
+  "name": "phantom-login",
+  "version": "1.0.0",
+  "description": "use phantom to login to something",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzela/phantom-login.git"
+  },
+  "author": "zeph lafassett <zeph@lafassett.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xzela/phantom-login/issues"
+  },
+  "homepage": "https://github.com/xzela/phantom-login#readme",
+  "dependencies": {
+    "phantomjs": "^1.9.17"
+  }
+}
