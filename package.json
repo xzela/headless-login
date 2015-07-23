@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/xzela/phantom-login#readme",
   "dependencies": {
-    "phantomjs": "^1.9.17"
+    "phantomjs": "^1.9.17",
+    "zombie": "^2.x.x"
   }
 }
